@@ -1,0 +1,22 @@
+.header-container2 {
+	border-bottom: 1px solid #03283b;
+	width: 100%;
+	height: 70px;
+}
+
+.main-header2 {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+
+p {
+	text-align: center;
+	font-size: 1.2rem;
+	margin-left: 15px;
+}
+
+.user-profile {
+	margin-right: 10px;
+}
